@@ -1,0 +1,1 @@
+Faça um programa que aloque memória para um ponteiro do tipo inteiro a atribua o valor 100 ao mesmo. Em seguida exiba seu endereço, conteúdo e valor apontado.
